@@ -29,7 +29,7 @@ The main book for this course is:
 [Papers for Essays (extras) and discussions](papers.md)<br>
 [Topics for short talks](shorttalks.md)<br>
 [Groups](groups.md) (List your group here)
-
+test
 ## Course Purpose
 This course is intended to familiarize students with the fundamentals of Open Source Software development. We aim to prepare the students for the real world, exposing them to real projects. The practical objective of the course is to teach students how to participate in an OSS project. Specific areas addressed in this course are:
 * Open source concepts and history;
